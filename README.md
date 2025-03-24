@@ -1,6 +1,9 @@
 ## Hi there 👋
-# - 🔭 I’m currently a senior student at Nanyang Technological University
-# - 🌱 I'm interested in AI safety, with a focus on large language models.
+## Thank you for stopping by
+## 🔭 I’m currently a senior student at Nanyang Technological University.
+## 🌱 I'm interested in AI safety, with a focus on large language models.
+## Feel Free to reach out me for anything
+
 
 <!--
 **Justinhhhh/Justinhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
