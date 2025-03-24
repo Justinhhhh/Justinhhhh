@@ -1,7 +1,7 @@
 ## Hi there 👋
 Thank you for stopping by
-🔭 I’m currently a senior student at Nanyang Technological University.
-🌱 I'm interested in AI safety, with a focus on large language models.
+<br/> 🔭 I’m currently a senior student at Nanyang Technological University.
+<br/> 🌱 I'm interested in AI safety, with a focus on large language models.
 Feel Free to reach out me for anything
 
 <!--
